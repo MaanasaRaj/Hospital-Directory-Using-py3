@@ -1,7 +1,7 @@
 # Hospital-Directory-Using-py3
 Program using Python3 that makes use of webpage parsing to read through different webpages, specifically the official websites of particular hospitals in and around Coimbatore , to extract information about the doctors and specialties available at a particular hospital.
 This project has collected the required information from 2 hospitals namely,
-		-KMCH  (ttps://kmchhospitals.com/kmch-main-center/)
+		-KMCH  (https://kmchhospitals.com/kmch-main-center/)
 	-Sheela Hosptial (http://www.sheelahospital.in/department/)
 The extracted information is stored in the form of dictionaries in a JSON file. The same file is used to search and display the information required by the user.
 The user is initially given 2 choices:
